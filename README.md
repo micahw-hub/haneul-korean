@@ -1,12 +1,14 @@
 # Haneul
 
-A small, editable Korean learning web app. It has Look up, Translate, and Questions screens and is designed for iPhone Safari as well as desktop browsers.
+A small, editable Korean learning web app. It has Look up, Translate, and Questions screens with Korean listen buttons, and is designed for iPhone Safari as well as desktop browsers.
 
 ## Run it
 
 Open `index.html` to preview the interface on a computer. Online lookups and general translations need an internet connection. Common entries and the rule explanations are built in.
 
 ## Use it on iPhone
+
+The app can read Korean aloud through your device’s built-in speech voice when available. Open it in iPhone Safari and tap a speaker button to listen.
 
 The iPhone home-screen app needs the files hosted at an HTTPS address. One free option is GitHub Pages:
 
